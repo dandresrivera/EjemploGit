@@ -1,4 +1,4 @@
 # EjemploGit
 Este es un ejemplo de GitHub :)
-Duvan Rivera
+Duvan Rivera Rodriguez
 
